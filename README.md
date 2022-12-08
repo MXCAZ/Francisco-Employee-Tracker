@@ -17,3 +17,6 @@ This app uses inquirer.js npm, mysql. Run npm install in the root directory to d
 Follow the video for demonstration:
 
 ![](Assets/Untitled_%20Dec%208,%202022%2010_41%20AM.gif)
+
+video on Screencastify: https://drive.google.com/file/d/1hSOXHpzvAmkd_SBXVBJLdSNHE24mO2X0/view
+Github account: https://github.com/MXCAZ/Francisco-Employee-Tracker
